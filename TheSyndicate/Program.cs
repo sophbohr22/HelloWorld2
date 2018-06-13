@@ -9,6 +9,7 @@ namespace TheSyndicate
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World! - Matthew");
             Console.WriteLine("Hello World! - Sophie");
+            Console.WriteLine("Hello World! - Grant");
             Console.ReadKey();
         }
     }
